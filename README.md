@@ -2,6 +2,9 @@
 
 ## **Overview**  
 This is a **Weather App** built using **Vanilla JavaScript, HTML, and SCSS**. The application retrieves weather data using the **OpenWeatherMap API** and features a **mobile-first, responsive web design**.  
+![image](https://github.com/user-attachments/assets/dddef16d-1d6d-415c-ab18-eaf76fcfe784)
+![image](https://github.com/user-attachments/assets/c8132b87-d17c-468a-a457-07cff547e693)
+
 
 ## **Features**  
 - **Live Weather Data**: Fetches real-time weather information from the OpenWeatherMap API.  
